@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/erene/CLionProjects/magicTheGathering/main.cpp
+iostream
+-
+vector
+-
+ctime
+-
+cstdlib
+-
+algorithm
+-
+memory
+-
+

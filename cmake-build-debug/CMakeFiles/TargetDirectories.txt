@@ -1,0 +1,3 @@
+C:/Users/erene/CLionProjects/magicTheGathering/cmake-build-debug/CMakeFiles/magicTheGathering.dir
+C:/Users/erene/CLionProjects/magicTheGathering/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erene/CLionProjects/magicTheGathering/cmake-build-debug/CMakeFiles/rebuild_cache.dir
